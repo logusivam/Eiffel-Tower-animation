@@ -18,7 +18,7 @@
     text-align: center;
 }
 
-/* part1 */
+/* base triangle */
 .part1
 {
     width: 350px;
@@ -31,10 +31,23 @@
     position: relative;
 }
 
+/* circle shape in base triangle */
 .part1 .circle
 {
     width: 215px;
     height: 220px;
     border-radius: 160px;
     background-color: #fff;
+    display: inline-block;
+    margin-top: 25px;
+}
+
+.part1 .style_bar
+{
+    height: 8px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+
 }
