@@ -26,4 +26,7 @@
     border-left: 65px solid transparent;
     border-right: 65px solid transparent;
     border-bottom: 115px solid #000;
+    display: block;
+    text-align: center;
+    position: relative;
 }
