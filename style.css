@@ -81,5 +81,9 @@
     border-color: #000;
     background: #fff;
     -webkit-animation: blink 25s 0.5s ease-in-out 3;
-    
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 82px;
+    left: -46px;
+    width: 57px;
 }
