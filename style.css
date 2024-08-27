@@ -55,6 +55,7 @@
     animation: blink 25s 0.5s ease-in-out 3;
 }
 
+/* bottom left white dots */
 .part1 .p1_bar_1_s1
 {
     height: 8px;
@@ -69,4 +70,10 @@
     top: 102px;
     left: -58px;
     width: 64px; 
+}
+
+.part1 .p1_bar_1_s2
+{
+    height: 8px;
+    
 }
