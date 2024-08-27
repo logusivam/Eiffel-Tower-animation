@@ -58,4 +58,9 @@
 .part1 .p1_bar_1_s1
 {
     height: 8px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
 }
