@@ -55,7 +55,7 @@
     animation: blink 25s 0.5s ease-in-out 3;
 }
 
-/* bottom left leg white line starts */
+/* bottom  white line design starts */
 .part1 .p1_bar_1_s1
 {
     height: 8px;
@@ -102,4 +102,68 @@
     top: 62px;
     left: -34px;
     width: 56px;
+}
+
+.part1 .p1_bar_1_s4
+{
+    height: 8px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 42px;
+    left: -21px;
+    width: 56px;
+}
+
+.part1 .p1_bar_1_s5
+{
+    height: 8px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 22px;
+    left: -9px;
+    width: 56px;
+}
+
+.part1 .p1_bar_1_s6
+{
+    height: 8px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 5px;
+    left: 0px;
+    width: 219px;
+}
+
+.part1 .p1_bar_r_s1
+{
+    height: 8px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 5px;
+    left: 0px;
+    width: 219px;
 }
