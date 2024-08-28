@@ -247,3 +247,14 @@
     top: 116px;
     left: -73px;
 }
+
+/* right base */
+.base2
+{
+    position: absolute;
+    width: 84px;
+    height: 10px;
+    background: #000;
+    top: 116px;
+    right: -73px;
+}
