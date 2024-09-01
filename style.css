@@ -301,7 +301,7 @@
     display: block;
 }
 
-/* triangle o th  */
+/* triangle on the horizontal bar  */
 .part3_container .part3 
 {
     width: 205px;
@@ -312,4 +312,9 @@
     display: inline-block;
     vertical-align: bottom;
     position: relative;
+}
+
+.part3_container .part3 .p3_s1
+{
+    
 }
