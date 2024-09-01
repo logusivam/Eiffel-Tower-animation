@@ -317,5 +317,10 @@
 .part3_container .part3 .p3_s1
 {
     width: 100px;
-    
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    border-bottom: 60px solid #fff;
+    display: inline-block;
+    margin-top: 20px;
 }
