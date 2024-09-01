@@ -279,6 +279,7 @@
     position: relative;
 }
 
+/* white strip in the horizontal bar */
 .part2_container .p2_bar_s
 {
     height: 8px;
@@ -291,4 +292,21 @@
     top: 6px;
     width: 216px;
     left: 0px;
+}
+/* parrt 2 design ends */
+
+/* part 3 design starts0 */
+.part3_container
+{
+    display: block;
+}
+
+.part3_container .part3 
+{
+    width: 205px;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid #000;
+    
 }
