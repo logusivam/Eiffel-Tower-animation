@@ -295,7 +295,7 @@
 }
 /* parrt 2 design ends */
 
-/* part 3 design starts0 */
+/* part 3 design starts */
 .part3_container
 {
     display: block;
@@ -314,6 +314,7 @@
     position: relative;
 }
 
+/* white box in the triangle */
 .part3_container .part3 .p3_s1
 {
     width: 100px;
@@ -324,3 +325,4 @@
     display: inline-block;
     margin-top: 20px;
 }
+
