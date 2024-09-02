@@ -409,5 +409,21 @@
     left: -4px;
 }
 
-/* white stripes starts */
-/* part 3 design starts */
+.part3_container .p3_bar_l_s5
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 87px;
+    width: 112px;
+    left: -4px;
+}
+/* white stripes ends */
+/* part 3 design ends */
