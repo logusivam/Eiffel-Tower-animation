@@ -485,10 +485,41 @@
     display: block;
 }
 
+/* horizontal bar */
 .part4_container .part4 
 {
     width: 105px;
     height: 20px;
     background: #000;
+    border: 1px solid #fff;
+    display: inline-block;
+    vertical-align: bottom;
+    position: relative;
+}
+
+.part4_container .p4_bar_s
+{
+    height: 8px;
+    bottom: 0;
+    border-style: dashed;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    top: 4px;
+    width: 101px;
+    left: 0px;
 }
 /* part 4 ends */
+
+/* prt 5 starts */
+.part5_container
+{
+    display: block;
+}
+
+.part5_container .part5 
+{
+    
+}
+/* part 5 ends */
