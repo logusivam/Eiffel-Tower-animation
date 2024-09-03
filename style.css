@@ -530,4 +530,17 @@
     vertical-align: bottom;
     position: relative;
 }
+
+/* center white triangle */
+.part5_container .part5 .p5_s1
+{
+    width: 35px;
+    border-left: 18px solid transparent;
+    border-right: 18px solid transparent;
+    border-bottom: 165px solid #fff;
+    height: 0;
+    display: inline-block;
+    margin-top: 112px;
+    margin-left: -12px;
+}
 /* part 5 ends */
