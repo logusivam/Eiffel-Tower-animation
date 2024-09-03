@@ -680,6 +680,40 @@
 
 .part5_container .p5_bar_1_s8
 {
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 130px;
+    width: 26px;
+    left: -22px;
+}
+
+.part5_container .p5_bar_1_s9
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 110px;
+    width: 26px;
+    left: -18.5px;
+}
+
+.part5_container .p5_bar_1_s10
+{
     
 }
 /* white dot ends */
