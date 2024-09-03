@@ -543,4 +543,39 @@
     margin-top: 112px;
     margin-left: -12px;
 }
+
+.part5_container .p5_bar_s
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+}
+
+/* white dot starts */
+.part5_container .p5_bar_1_s1
+{
+    height: 7px;
+  bottom: 0;
+  border-style: dotted;
+  position: absolute;
+  border-color: #000;
+  background: #fff;
+  transform: scaleY(1);
+  -webkit-animation: blink 25s 0.5s ease-in-out 3;
+  -moz-animation: blink 25s 0.5s ease-in-out 3;
+  animation: blink 25s 0.5s ease-in-out 3;
+  top: 270px;
+  width: 30px;
+  left: -43px;
+}
+
+
+/* white dot ends */
 /* part 5 ends */
