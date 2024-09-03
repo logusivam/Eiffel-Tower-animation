@@ -780,7 +780,7 @@
     left: -6px;
 }
 
-.part5_container ,.p5_bar_1_s14
+.part5_container .p5_bar_1_s14
 {
     height: 7px;
     bottom: 0;
@@ -794,7 +794,215 @@
     animation: blink 25s 0.5s ease-in-out 3;
     top: 10px;
     width: 15px;
-    left: -4.5px;
+    left: -3px;
 }
-/* white dot ends */
+
+.part5_container .p5_bar_1_s15
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: -28px;
+    width: 9px;
+    left: -0.5px;
+}
+/* left white dot ends */
+
+/* right dot starts */
+.part5_container .p5_bar_r_s1
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 270px;
+    width: 27px;
+    right: -44px;
+}
+
+.part5_container .p5_bar_r_s2
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 250px;
+    width: 27px;
+    right: -41px;
+}
+
+.part5_container .p5_bar_r_s3
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 230px;
+    width: 27px;
+    right: -38px;
+}
+
+.part5_container .p5_bar_r_s4
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 210px;
+    width: 27px;
+    right: -35px;
+}
+
+.part5_container .p5_bar_r_s5
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 190px;
+    width: 26px;
+    right: -31.5px;
+}
+
+.part5_container .p5_bar_r_s6
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 170px;
+    width: 25px;
+    right: -28.3px;
+}
+
+.part5_container .p5_bar_r_s7
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 150px;
+    width: 24px;
+    right: -26px;
+}
+
+.part5_container .p5_bar_r_s8
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 130px;
+    width: 21px;
+    right: -22px;
+}
+
+.part5_container .p5_bar_r_s9
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 110px;
+    width: 21px;
+    right: -18px;
+}
+
+.part5_container .p5_bar_r_s10
+{
+    height: 7px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background: #fff;
+    transform: scaleY(1);
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+    top: 90px;
+    width: 21px;
+    right: -15px;
+}
+/* right dot ends */
 /* part 5 ends */
+
+/* top light starts */
+.globe_container
+{
+    display: block;
+}
+
+.globe_container .top_globe
+{
+    width: 22px;
+    height: 22px;
+    border-radius: 30px;
+    border: 5px solid #000;
+    background: #fff;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-bottom: 1.5px;
+}
+/* top light ends */
