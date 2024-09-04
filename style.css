@@ -1179,13 +1179,13 @@
 /* animation ends */
 
 @media (max-width: 1200px) {
-    .container  {
+    .container, .part1  {
         width: 60%;
     }
 }
 
 @media (max-width: 992px) {
-    .container  {
+    .container, .part1  {
         width: 70%;
     }
 }
