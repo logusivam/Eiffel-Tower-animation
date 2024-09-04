@@ -1008,7 +1008,7 @@
 /* top light ends */
 
 /* tower on the light starts */
-.tower-container
+.tower_container
 {
     display: block;
 }
@@ -1018,6 +1018,25 @@
     width: 15px;
     border-left: 7px solid transparent;
     border-right: 7px solid transparent;
-    border-bottom: 43px ;
+    border-bottom: 43px solid #000;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-bottom: -15px;
 }
 /* tower on the light ends */
+
+.super_circle_container
+{
+    display: block;
+}
+
+.super_circle_container .super_circle 
+{
+    width: 5px;
+    height: 5px;
+    border-radius: 7px;
+    background: #000;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-bottom: -4px;
+}
