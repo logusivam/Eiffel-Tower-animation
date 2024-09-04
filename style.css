@@ -1178,7 +1178,7 @@
 /* animation ends */
 
 @media (max-width: 1200px) {
-    .container {
+    body {
         width: 60%;
     }
 }
