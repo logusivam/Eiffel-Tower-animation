@@ -1121,5 +1121,7 @@
     width: 215px;
     height: 220px;
     border-radius: 160px;
-    background-color: #fff;
+    background-color: #ffffff;
+    display: inline-block;
+    margin-top: 25px;
 }
