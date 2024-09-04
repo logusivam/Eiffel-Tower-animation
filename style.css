@@ -1105,4 +1105,13 @@
 }
 /* animation ends */
 
-.
+.part1 
+{
+    width: 350px;
+    height: 0;
+    border-left: 65px solid transparent;
+    border-right: 65px solid transparent;
+    display: block;
+    text-align: center;
+    position: relative;
+}
