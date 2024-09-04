@@ -1129,6 +1129,19 @@
 
 .part1 .style_bar
 {
+    height: 8px;
+    bottom: 0;
+    border-style: dotted;
+    position: absolute;
+    border-color: #000;
+    background-color: #fff;
+    -webkit-animation: blink 25s 0.5s ease-in-out 3;
+    -moz-animation: blink 25s 0.5s ease-in-out 3;
+    animation: blink 25s 0.5s ease-in-out 3;
+}
+
+.part1 .p1_bar_1_s1
+{
     
 }
 
