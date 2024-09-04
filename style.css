@@ -1004,6 +1004,9 @@
     display: inline-block;
     vertical-align: bottom;
     margin-bottom: 1.5px;
+    -webkit-animation: light 25s 0.5s ease-in-out 3;
+    -moz-animation: light 25s 0.5s ease-in-out 3;
+    animation: light 25s 0.5s ease-in-out 3;
 }
 /* top light ends */
 
