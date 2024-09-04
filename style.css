@@ -1006,3 +1006,18 @@
     margin-bottom: 1.5px;
 }
 /* top light ends */
+
+/* tower on the light starts */
+.tower-container
+{
+    display: block;
+}
+
+.tower_container .tower 
+{
+    width: 15px;
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-bottom: 43px ;
+}
+/* tower on the light ends */
