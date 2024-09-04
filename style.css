@@ -1106,5 +1106,63 @@
         background: #fff;
     }
 }
+
+
+@keyframes light
+{
+    0%
+    {
+        background: #fff;
+        transform: rotateX(72deg);
+    }
+    20%
+    {
+        background: #99e0eb;
+    }
+    40%
+    {
+        background: #f6b97b;
+    }
+    60%
+    {
+        background: #ff9;
+    }
+    80%
+    {
+        background: #c8ffbe;
+    }
+    100%
+    {
+        background: #fff;
+    }
+}
+
+@-webkit-keyframes blink
+{
+    0%
+    {
+        background: #fff;
+    }
+    20%
+    {
+        background: #99e0eb;
+    }
+    40%
+    {
+        background: #f6b97b;
+    }
+    60%
+    {
+        background: #ff9;
+    }
+    80%
+    {
+        background: #c8ffbe;
+    }
+    100%
+    {
+        background: #fff;
+    }
+}
 /* animation ends */
 
