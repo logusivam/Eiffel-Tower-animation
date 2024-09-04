@@ -1039,4 +1039,7 @@
     display: inline-block;
     vertical-align: bottom;
     margin-bottom: -4px;
+    -webkit-animation: blink 1s linear infinite;
+    -moz-animation: blink 1s linear infinite;
+    animation: blink 1s linear infinite;
 }
