@@ -1105,6 +1105,7 @@
 }
 /* animation ends */
 
+/* circle under the eiffel tower starts */
 .part1 
 {
     width: 350px;
@@ -1125,3 +1126,10 @@
     display: inline-block;
     margin-top: 25px;
 }
+
+.part1 .style_bar
+{
+    
+}
+
+/* circle under the eiffel tower ends */
