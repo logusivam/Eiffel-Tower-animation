@@ -1177,3 +1177,9 @@
 
 /* animation ends */
 
+@media screen and (max-width: 768px) {
+    body 
+    {
+        box-sizing: content-box;
+    }
+}
