@@ -22,7 +22,7 @@ This project presents an animated Eiffel Tower with a vibrant light show. The li
 
 2. **Navigate to the Project Directory:**
 ```
-cd eiffel-tower-animation
+cd Eiffel-Tower-animation
 ```
 
 3. **Open the** `index.html` File in any modern web browser to view the animation:
