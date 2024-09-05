@@ -17,6 +17,26 @@ This project presents an animated Eiffel Tower with a vibrant light show. The li
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/logusivam/iffel-Tower-animation.git
+   git clone https://github.com/logusivam/Eiffel-Tower-animation.git
+   ```
+
+2. **Navigate to the Project Directory:**
+```
+cd eiffel-tower-animation
+```
+
+3. **Open the** `index.html` File in any modern web browser to view the animation:
+```
+open index.html
+```
+
+## 🎨 Customization
+- **Light Colors:** You can change the color palette used for the lights by editing the CSS file.
+- **Duration:** Modify the duration of the light changes by adjusting the animation-duration in the CSS.
+
+## 🤝 Contributions
+Contributions are welcome to improve the animation or add new features. Feel free to fork the repository, make changes, and submit a pull request.
 
 
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
