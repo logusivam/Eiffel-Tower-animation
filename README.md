@@ -21,14 +21,14 @@ This project presents an animated Eiffel Tower with a vibrant light show. The li
    ```
 
 2. **Navigate to the Project Directory:**
-```
-cd Eiffel-Tower-animation
-```
+   ```
+   cd Eiffel-Tower-animation
+   ```
 
 3. **Open the** `index.html` File in any modern web browser to view the animation:
-```
-open index.html
-```
+   ```
+   open index.html
+   ```
 
 ## 🎨 Customization
 - **Light Colors:** You can change the color palette used for the lights by editing the CSS file.
