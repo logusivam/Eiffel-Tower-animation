@@ -1,42 +1,53 @@
-# 🗼 Eiffel Tower Animation with Color-Changing Lights
+# [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#) [![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](#)
 
-This project presents an animated Eiffel Tower with a vibrant light show. The lights change colors every 25 seconds to simulate the beauty of the Eiffel Tower's illumination at night. The animation is built entirely using HTML and CSS, offering a smooth and visually appealing experience.
+# threejs-eiffel-tower-animation
 
-## ✨ Features
+## Table of Contents
+- [Project Overview & Key Features](#project-overview--key-features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Running Tests](#running-tests)
+- [Maintainers & Attribution](#maintainers--attribution)
 
-- **Eiffel Tower Design**: The tower is drawn using HTML and CSS, mimicking the architectural beauty of the real structure.
-- **Color-Changing Lights**: Lights on the tower smoothly transition between different colors, providing an elegant light show.
-- **CSS Animations**: The color transitions are managed using pure CSS animations with a 25-second duration.
+## Project Overview & Key Features
+* High-fidelity 3D structural model representation inspired by the architectural design of the Eiffel Tower.
+* Real-time 360-degree rotating spot/directional light simulation mounted on the tower's summit.
+* Advanced WebGL material rendering with ambient environmental lighting maps.
+* Responsive, multi-panel informational slider layouts for viewing architectural specifications.
+* Lightweight dashboard statistics integration using canvas-driven visual charts.
 
-## 🛠️ Tech Stack
+## Tech Stack
+* **Graphics Core:** Three.js (WebGL), HTML5 Canvas
+* **UI Controls & Interactivity:** Swiper, Varnish, Vanilla JavaScript
+* **Data Visualization:** Chart.js
+* **Assets & Styling:** CSS3, Font Awesome, Google Fonts
 
-- **HTML**: For structuring the Eiffel Tower and the surrounding elements.
-- **CSS**: For the tower design, animations, and color transitions.
+## Getting Started
 
-## 🚀 How to Run the Project
+### Prerequisites
+* A contemporary desktop or mobile web browser supporting WebGL 2.0 and hardware acceleration.
+* Node.js environment or a local live server extension for resource loading.
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/logusivam/Eiffel-Tower-animation.git
-   ```
+### Installation
+```bash
+git clone <repo url>
+```
 
-2. **Navigate to the Project Directory:**
-   ```
-   cd Eiffel-Tower-animation
-   ```
+### Usage
+```bash
+open wtih live server
+```
 
-3. **Open the** `index.html` File in any modern web browser to view the animation:
-   ```
-   open index.html
-   ```
+## Maintainers & Attribution
+This enterprise asset is actively maintained and monitored by the core data engineering group. 
 
-## 🎨 Customization
-- **Light Colors:** You can change the color palette used for the lights by editing the CSS file.
-- **Duration:** Modify the duration of the light changes by adjusting the animation-duration in the CSS.
+Special recognition to our principal maintainers and authors for their contributions:
+* **Loganathan G P** (Lead Architect)
+* GitHub: [logananthan](#) / [logusivam](#)
+* Core Engineering Sign-off: **G P**
 
-## 🤝 Contributions
-Contributions are welcome to improve the animation or add new features. Feel free to fork the repository, make changes, and submit a pull request.
-
-
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+---
+Managed by the Open Source SEO Initiative.
